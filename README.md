@@ -18,13 +18,13 @@
 
 ## 🙋‍♂️ About Me
 
-I'm *Anudeep Chilukuri, a final-year **B.Tech Computer Science Engineering student* from KITS, Telangana, passionate about building intelligent systems using *Generative AI, **Machine Learning, and **Python*. I love solving real-world problems through smart software and automation.
+I'm **Anudeep Chilukuri**, a final-year **B.Tech Computer Science Engineering student** from KITS, Telangana, passionate about building intelligent systems using **Generative AI**, **Machine Learning**, and **Python**. I love solving real-world problems through smart software and automation.
 
-- 🤖 *AI & GenAI enthusiast* exploring the cutting edge of intelligent systems
-- 🧠 *ML learner* diving deep into models, data, and predictions
-- 🌱 Currently exploring *Generative AI* and its real-world applications
-- 🤝 *Team player* who thrives on collaboration and creative problem-solving
-- 🏆 CGPA: *6.88* — growing every semester with hands-on projects
+- 🤖 **AI & GenAI enthusiast** exploring the cutting edge of intelligent systems
+- 🧠 **ML learner** diving deep into models, data, and predictions
+- 🌱 Currently exploring **Generative AI** and its real-world applications
+- 🤝 **Team player** who thrives on collaboration and creative problem-solving
+- 🏆 CGPA: **6.88** — growing every semester with hands-on projects
 
 ---
 
@@ -50,7 +50,7 @@ I'm *Anudeep Chilukuri, a final-year **B.Tech Computer Science Engineering stude
 ## 🚀 Projects
 
 ### 🚗 REVOC – Remote to Voice Responsive Robotic Car
-> *Arduino & AI Concepts | 2026*
+> **Arduino & AI Concepts | 2026**
 
 - Built a voice-controlled robotic car using Arduino UNO, Bluetooth module, and smartphone voice commands
 - Implemented obstacle detection using ultrasonic sensors for automatic collision avoidance
@@ -59,7 +59,7 @@ I'm *Anudeep Chilukuri, a final-year **B.Tech Computer Science Engineering stude
 ---
 
 ### 💼 Employee Management System
-> *Python | 2025*
+> **Python | 2025**
 
 - Developed a Python-based system to manage employee records, roles, and performance data
 - Implemented centralized data handling and reporting features for efficient HR operations
@@ -80,9 +80,9 @@ I'm *Anudeep Chilukuri, a final-year **B.Tech Computer Science Engineering stude
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech – CSE | Kamala Institute of Technology and Science (KITS), Telangana | 2022–2026 | CGPA: *6.88* |
-| Intermediate (MPC) | Alphores Junior College, Karimnagar | 2020–2022 | *57.7%* |
-| SSC | Brindavan High School | 2019–2020 | GPA: *9.7* |
+| B.Tech – CSE | Kamala Institute of Technology and Science (KITS), Telangana | 2022–2026 | CGPA: **6.88** |
+| Intermediate (MPC) | Alphores Junior College, Karimnagar | 2020–2022 | **57.7%** |
+| SSC | Brindavan High School | 2019–2020 | GPA: **9.7** |
 
 ---
 
